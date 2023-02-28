@@ -4,8 +4,11 @@ This Python script allows you to change the root password on multiple Isilon clu
 
 
 The CSV file should have one FQDN per line, like so:
+
 cluster1.example.com
+
 cluster2.example.com
+
 cluster3.example.com
 
 
